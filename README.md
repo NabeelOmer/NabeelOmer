@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohammed Nabeel P U 👋
 
-<!--
-**NabeelOmer/NabeelOmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics & Machine Learning
 
-Here are some ideas to get you started:
+Based in Kerala, India. I enjoy working with data, finding useful patterns, and presenting insights through dashboards. My projects also explore machine learning and Flask applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+
+- **Data Analysis:** Python, Pandas, SQL, Excel
+- **Data Visualization:** Power BI, Tableau
+- **Machine Learning & Web Apps:** Machine Learning, Flask
+
+## Projects
+
+I'm organizing my projects here, including data dashboards and machine learning applications. Project files and documentation will be added soon.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohammed-nabeel-p-u)
+- [Email](mailto:nabeelomer007@gmail.com)
